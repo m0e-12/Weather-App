@@ -25,4 +25,9 @@ Store user preferences and weather data:
 Handle API requests 
 
 Communicate with the MySQL database.
+
+# Updates are underway
+
+# Also will be working on another project and I would appreciate guidance and assistance. The link will be provided soon. Thankyou
+
 >>>>>>> 10c8812 (First Commit)
